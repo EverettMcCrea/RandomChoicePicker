@@ -1,0 +1,16 @@
+/* shared styling for all elements apart of the TitleInfo component */
+.All-text {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif, monospace;
+}
+
+/* styling for main title text */
+.Title-text{
+    color: rgb(0, 0, 0);
+    font-size: 50px;
+}
+
+/* styling for subtitle text */
+.Subtitle-text{
+    font-weight: lighter;
+}
