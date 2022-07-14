@@ -8,9 +8,11 @@
 .Title-text{
     color: rgb(0, 0, 0);
     font-size: 50px;
+    font-weight: bold;
 }
 
 /* styling for subtitle text */
 .Subtitle-text{
     font-weight: lighter;
+    font-size: 20px;
 }
