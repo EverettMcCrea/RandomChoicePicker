@@ -1,5 +1,6 @@
 import React from "react";
 import TitleInfo from './Componenets/TitleInfo'
+import Option from "./Componenets/Option";
 
 class ChoicePicker extends React.Component {
     // Will probably need this later if I implement state mechanics
@@ -9,7 +10,10 @@ class ChoicePicker extends React.Component {
 
     render() {
         return(
-            <TitleInfo />
+            <div>
+                <TitleInfo />
+                <Option/>
+            </div>
         )
     }
 }
